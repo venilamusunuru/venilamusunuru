@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋, I'm Venila Musunuru<br><br> 🔭 I am a Cloud and DevOps Engineer ☁️,  Upcoming YouTuber 📺. <br><br>⭐ Tutor - AWS/Devops | FirstMan Academy<br><br>✌️ Creating AWS/Devops content on YouTube<br><br>🥇 M.Tech (VLSI) | Andhra University<br><br>💬 Ask me about Cloud and DevOps ☁️<br><br>📫 Reach out to me at venilamusunuruofficial@gmail.com<br><br>👨‍💻 All my projects are available at https://github.com/venilamusunuru
+Hi 👋, I'm Venila Musunuru<br><br> 🔭 I am a Cloud and DevOps Engineer ☁️,  Upcoming YouTuber 📺. <br><br>⭐ Tutor - AWS/Devops | FirstMan Academy<br><br>🥇 M.Tech (VLSI) | Andhra University<br><br>💬 Ask me about Cloud and DevOps ☁️<br><br>📫 Reach out to me at venilamusunuruofficial@gmail.com<br><br>👨‍💻 All my projects are available at https://github.com/venilamusunuru
 
 
 ## 🌐 Socials:
